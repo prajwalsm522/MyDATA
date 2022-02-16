@@ -1,0 +1,12 @@
+javascript object creation (DOM)
+by object
+by constrtucter
+by json
+
+es5 javascripte
+ecmascript
+typescript
+
+
+
+set, let->local,global

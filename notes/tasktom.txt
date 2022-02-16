@@ -1,0 +1,25 @@
+Descending sort            //high
+
+Ascending  sort            //high
+
+iterator                   //high
+
+comparator                 //high
+
+comparable                 //high
+
+Reduce 
+
+Streams                    //high
+
+complete arrayops          //high
+
+complete assignment        //high
+
+update project             //high
+
+look out test paper! ??    //high
+
+change Iportal pass, change windows pass, change outlook pass    //critical
+
+return statement           //med

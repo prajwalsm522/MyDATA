@@ -1,0 +1,173 @@
+6) What is Callback?
+
+    The callback is a technique in which a method calls back the caller method.
+    The callback is an asynchronous equivalent for a function.
+    Both of the above.
+    None of the above.
+
+Answer: B is the correct option. The callback is an asynchronous equivalent for a function
+
+
+
+next →
+← prev
+Node.js MCQ
+
+1) Which of the following statement is correct?
+
+    js is Server Side Language.
+    js is the Client Side Language.
+    js is both Server Side and Client Side Language.
+    None of the above.
+
+2) What does the REPL stand for?
+
+    REPL stands for "Read Eval Print Loop."
+    REPL stands for "Research Eval Program Learn."
+    REPL stands for "Read Earn Point Learn."
+    REPL stands for "Read Eval Point Loop."
+
+Answer: A is the correct option. REPL stands for "Read Eval Print Loop".
+
+3) Which of the following command is used to start a REPL session?
+
+    $ node
+    $ node start
+    $ node repl
+    $ node console
+
+4) In which language is Node.js written?
+
+    JavaScript
+    C
+    C++
+    CoffeeScript
+    All of the above
+
+5) Which of the following command is used to install the Node.js express module?
+
+    $ npm install express
+    $ node install express
+    $ install express
+    None of the above
+
+6) What is Callback?
+
+    The callback is a technique in which a method calls back the caller method.
+    The callback is an asynchronous equivalent for a function.
+    Both of the above.
+    None of the above.
+
+Answer: B is the correct option. The callback is an asynchronous equivalent for a function.
+
+7) Which of the following extension is used to save the Node.js files?
+
+    .js
+    .node
+    .java
+    .txt
+
+8) The Node.js modules can be exposed using:
+
+    expose
+    module
+    exports
+    All of the above
+
+Answer: C is the correct option. The Node.js modules can be exposed using module.export
+
+) Which of the following module is not a built-in node module?
+
+    zlib
+    https
+    dgram
+    fsread
+
+Answer: D is the correct option. The "fsread" is not a built-in node module.
+
+11) What does the fs module stand for?
+
+    File Service
+    File System  ->correct
+    File Store
+    File Sharing
+
+13) Which of the following template engines can be used with Node.js?
+
+    Jade
+    Vash
+    Handlebars
+    All of the above
+
+Answer: C is the correct option. Handlebars are the template engines that can be used with Node.js
+
+
+
+
+14) Which of the following code print the platform of operating system?
+
+    console.log('platform : ' + os.platform);
+    console.log('platform : ' + os.platform());
+    console.log('platform : ' + os.getPlatform());
+    None of the above.
+
+Answer: B is the correct option. The os.platform() returns the operating system platform
+
+
+15) Which of the following method is used to return the current working directory of the process?
+
+    cwd();
+    cwd();
+    pwd();
+    None of the above.
+
+Answer: A is the correct option. The process.cwd() method is used to return the current working directory of the process.
+
+
+
+
+19) What is the default scope in the Node.js application?
+
+    Global
+    Local
+    Global Function
+    Local to object
+
+Answer: B is the correct option. Local is the default scope in the Node.js application
+
+
+
+23) Which of the following shortcut command is used to kill a process in Node.js?
+
+    
+    Ctrl + C
+
+
+
+25) What is the main usage of Node.js terminal (REPL)?
+
+    To specify the preview of the Node.js application.
+    For testing Node.js/JavaScript expressions.
+    For executing browser's JavaScript expressions.
+    None of the above.
+
+Answer: B is the correct option. The Node.js terminal (REPL) is used for testing Node.js/JavaScript expressions
+
+
+
+
+
+27) Which of the following is used to test if two nodes are equal?
+
+    ==
+    equal()
+    isEqualNode()
+    None of the above.
+
+Answer: C is the correct option. The "isEqualNode()" is used to test if two nodes are equal.
+
+
+23) 
+
+
+

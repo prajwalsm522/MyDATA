@@ -1,0 +1,17 @@
+superclass/
+
+inheritence
+
+autowire:
+interface 
+abstract class, inherited class
+loose copl 
+tight copl
+singleton
+mvc
+
+
+
+mvc
+resapi
+spring data jpa

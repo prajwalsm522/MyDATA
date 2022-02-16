@@ -1,0 +1,29 @@
+Constraints:
+Check
+unique
+mysql foreignkey
+primarykey
+cascade and delete
+joins
+
+
+
+
+mysql
+functons
+stored proceduerres
+insert into table
+group by and having
+update
+alter
+update multiple columns
+wild cards- like, not like, escape, %, _ ,^,
+joins
+normalization
+alias
+
+
+
+javascript
+mongodb
+htmlcssbootstrap
